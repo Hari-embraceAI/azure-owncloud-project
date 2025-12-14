@@ -274,13 +274,7 @@ Screenshots – Step-by-step execution evidence
 
 
 
-👤 Author
 
-
-
-Hari Babu Malla
-
-Cloud \& DevOps 
 
 
 
