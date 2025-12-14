@@ -1,0 +1,16 @@
+CLEANUP SUMMARY – AZURE OWNCloud PROJECT
+
+All Azure resources created during this project were cleaned up successfully.
+
+• Application and Database VMs were stopped and deallocated.
+• Azure Resource Group containing:
+  - Virtual Machines
+  - Network Security Groups
+  - Virtual Network and Subnets
+  - NAT Gateway
+  - Public IP Addresses
+  - Managed Disks
+  was deleted in one action.
+
+Final verification confirmed no active Azure resources remained,
+ensuring zero ongoing cost.
